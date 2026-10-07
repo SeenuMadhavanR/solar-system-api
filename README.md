@@ -11,6 +11,7 @@ A comprehensive REST API providing detailed astronomical data about all planets 
 - Pre-seeded database with accurate astronomical data
 
 ## Installation ⚙️
+runs on port 8000 
 
 ### Prerequisites
 - Node.js (v14 or later)
