@@ -18,4 +18,4 @@ USER node
 
 EXPOSE 8000
 
-CMD ["node",  "--env-file=/vault/secrets/db.env" , "index.js"]
+CMD ["node",  "--env-file=/vault/secrets/app.env" , "index.js"]
